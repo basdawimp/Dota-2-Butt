@@ -5,7 +5,7 @@ BUTTINGS = {
 
 	GAME_MODE = "AP",                   -- "AR" "AP" All Random/ All Pick
 	ALLOW_SAME_HERO_SELECTION = 0,      -- 0 = everyone must pick a different hero, 1 = can pick same
-	HERO_BANNING = 1,                   -- 0 = no banning, 1 = banning phase
+	HERO_BANNING = 0,                   -- 0 = no banning, 1 = banning phase
 	USE_BOTS = 0, -- TODO
 	MAX_LEVEL = MAX_LEVEL,              -- (default = 30) the max level a hero can reach
 
@@ -13,7 +13,7 @@ BUTTINGS = {
 	--ALWAYS_PASSIVE_GOLD = 0,			-- 0 = normal (always),  1 = when custom courier is dead passive gold is disabled; Not a useful function after Courier GPM was gone
 	COOLDOWN_PERCENTAGE = 100,          -- (default = 100) factor for all cooldowns
 	GOLD_GAIN_PERCENTAGE = 100,         -- (default = 100) factor for gold income
-	GOLD_PER_MINUTE = 95,               -- (default =  95) passive gold
+	GOLD_PER_MINUTE = 10000,               -- (default =  95) passive gold
 	RESPAWN_TIME_PERCENTAGE = 100,      -- (default = 100) factor for respawn time
 	XP_GAIN_PERCENTAGE = 100,           -- (default = 100) factor for xp income
 
@@ -27,7 +27,7 @@ BUTTINGS = {
 	OUTPOST_SHOP = 0,                   -- 0 = normal, 1 = jungle shops
 	SIDE_SHOP = 0,                      -- 0 = normal, 1 = bring back sideshops
 	--FREE_COURIER = 0,                 -- 0 = vanilla couriers, 1 = custom couriers (Currently has no use)
-	XP_PER_MINUTE = 0,                  -- (normal dota = 0) everyone gets passive experience (like the passive gold)
+	XP_PER_MINUTE = 10000,                  -- (normal dota = 0) everyone gets passive experience (like the passive gold)
 	COMEBACK_TIMER = 30,                -- timer (minutes) to start comeback XP / gold 
 	COMEBACK_GPM = 60,                  -- passive gold for the poorest team
 	COMEBACK_XPPM = 120,                -- passive experience for the lowest team
