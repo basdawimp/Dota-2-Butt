@@ -51,7 +51,7 @@
 			"04"
 			{
 				"var_type"			"FIELD_FLOAT"
-				"knockback_distance_max"	"4500"
+				"knockback_distance_max"	"3000"
 			}
 			"05"
 			{
@@ -96,12 +96,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"leap_distance"			"10000"
+				"leap_distance"			"5750"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"leap_speed"			"1300.0"
+				"leap_speed"			"13000.0"
 			}
 			"03"
 			{
@@ -161,7 +161,7 @@
 			"03"
 			{
 				"var_type"						"FIELD_INTEGER"
-				"knockback_distance"					"100"
+				"knockback_distance"					"1000"
 				"LinkedSpecialBonus"	"special_bonus_unique_sniper_3"
 			}
 			"04"
@@ -252,7 +252,7 @@
 			"07"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"push_distance"				"4500"
+				"push_distance"				"3000"
 			}
 			"08"
 			{
@@ -351,7 +351,7 @@
 			"08"
 			{
 				"var_type"			"FIELD_INTEGER"
-				"knockback_distance"	"3500"
+				"knockback_distance"	"4500"
 			}
 			"09"
 			{
@@ -476,7 +476,7 @@
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"knockback_distance"	"4000"
+				"knockback_distance"	"2500"
 			}
 			"05"
 			{
@@ -568,7 +568,7 @@
 			"09"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"knockback_distance"	"3000"
+				"knockback_distance"	"2500"
 			}
 			"10"
 			{
@@ -707,7 +707,7 @@
 			"03"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"hop_distance"					"2500"
+				"hop_distance"					"3500"
 			}
 			"04"
 			{
@@ -776,7 +776,7 @@
 			"04"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"max_land_distance"			"3750 3750 3750 3750"
+				"max_land_distance"			"3750 4000 4250 4500"
 				"LinkedSpecialBonus"		"special_bonus_unique_rubick"
 			}
 			"05"
@@ -847,7 +847,7 @@
 			"06"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"knockback_distance"	"3500"
+				"knockback_distance"	"2500"
 			}
 			"07"
 			{
@@ -887,12 +887,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"pounce_distance"		"7000"
+				"pounce_distance"		"6600"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"pounce_speed"			"933.33"
+				"pounce_speed"			"9330.33"
 			}
 			"03"
 			{
@@ -1099,12 +1099,12 @@
 			"07"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"unit_distance"			"5000.0 6000.0 7000.0 8000.0"
+				"unit_distance"			"4000.0 4500.0 5000.0 5500.0"
 			}
 			"08"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"rock_distance"			"20000.0"
+				"rock_distance"			"10000.0"
 			}			
 			"09"
 			{
@@ -1153,23 +1153,23 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"speed"					"800"
+				"speed"					"8000"
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"rock_speed"			"1600"
+				"rock_speed"			"16000"
 			}
 			"04"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"distance"				"8000.0"
+				"distance"				"5000.0"
 				"LinkedSpecialBonus"	"special_bonus_unique_earth_spirit_4"
 			}
 			"05"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"rock_distance"			"16000.0"
+				"rock_distance"			"12000.0"
 				"LinkedSpecialBonus"	"special_bonus_unique_earth_spirit_4"
 				"LinkedSpecialBonusField"		"value2"
 			}
@@ -1255,12 +1255,12 @@
 			"04"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"pull_units_per_second_heroes"		"600"
+				"pull_units_per_second_heroes"		"3000"
 			}				
 			"05"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"pull_units_per_second"		"1000"
+				"pull_units_per_second"		"5000"
 			}
 			"06"
 			{
@@ -1270,7 +1270,7 @@
 			"07"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"total_pull_distance"		"14000"
+				"total_pull_distance"		"5000"
 			}			
 		}
 	}
@@ -1350,7 +1350,7 @@
 			"09"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"jump_horizontal_distance"	"2250"
+				"jump_horizontal_distance"	"3300"
 			}
 		}
 		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_2"
@@ -1434,7 +1434,7 @@
 			"09"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"knockback_distance"	"750"
+				"knockback_distance"	"1000"
 			}
 		}
 		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_5"
@@ -1498,7 +1498,7 @@
 			"05"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"knockback_distance"		"1500"
+				"knockback_distance"		"2000"
 			}
 			"06"
 			{
@@ -1620,5 +1620,77 @@
 			}
 		}
 	}
+	
+	//=================================================================================================================
+	// Morphling: Adaptive Strike
+	//=================================================================================================================
+	"morphling_adaptive_strike_str"
+	{
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"ID"					"7000"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
+		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
+		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"	
+		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
+		"SpellDispellableType"			"SPELL_DISPELLABLE_YES_STRONG"
+		"FightRecapLevel"				"1"
+		"AbilitySound"					"Hero_Morphling.AdaptiveStrike"
+		"LinkedAbility"					"morphling_adaptive_strike_agi"
 
+		// Casting
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCastRange"				"600 700 800 900"
+		"AbilityCastPoint"				"0.25"
+		"AbilityCastAnimation"			"ACT_DOTA_CAST_ABILITY_3"
+
+		// Time		
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityCooldown"				"10"
+
+		// Cost
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityManaCost"				"80"		
+
+		// Stats
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityModifierSupportValue"	"0.3"	// Primarily about the damage
+
+		// Special
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilitySpecial"
+		{
+			"01"
+			{
+				"var_type"						"FIELD_FLOAT"
+				"stun_min"						"0.5"
+			}
+			"02"
+			{
+				"var_type"						"FIELD_FLOAT"
+				"stun_max"						"1.5 2.0 2.5 3.0"
+			}
+			"03"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"knockback_min"					"1000"
+			}
+			"04"
+			{
+				"var_type"						"FIELD_INTEGER"
+				"knockback_max"					"5000"
+			}
+			"05"
+			{
+				"var_type"						"FIELD_FLOAT"
+				"projectile_speed"					"1150"
+			}
+			"06"
+			{
+				"var_type"						"FIELD_FLOAT"
+				"shared_cooldown"					"3"
+			}
+		}
+	}
 }
