@@ -96,7 +96,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"leap_distance"			"5750"
+				"leap_distance"			"10000"
 			}
 			"02"
 			{
